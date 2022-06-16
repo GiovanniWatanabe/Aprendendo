@@ -1,2 +1,2 @@
 # Aprendendo
-Repositório para adiconar minhas habilidades que vou adquirir
+Repositório para adiconar meus conhecimento de html e css
